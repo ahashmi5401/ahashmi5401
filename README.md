@@ -18,7 +18,7 @@
 - 💬 Ask me about **Java Script,React,Gsap,Python**
 
 - 📫 How to reach me **ahashmi5401@gmail.com**
-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 - ⚡ Fun fact **💻 “Hello, World!” is the first program every developer writes when learning a new language.**
 
