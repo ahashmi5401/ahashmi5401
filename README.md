@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ayan \ Hashmi</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ayan Hashmi</h1>
 <h3 align="center">Front-End Developer (React) & Data Scientist | Building web apps & data solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahashmi5401&label=Profile%20views&color=0e75b6&style=flat" alt="ahashmi5401" /> </p>
