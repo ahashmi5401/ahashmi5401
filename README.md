@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahashmi5401" alt="ahashmi5401" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Website](https://technocity-ayan.netlify.app)
+- 🔭 I’m currently working on [Ecommerce Website](https://aykays.com/)
 
 - 🌱 I’m currently learning **React,Data Science**
 
