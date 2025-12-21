@@ -41,4 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahashmi5401&show_icons=true&locale=en" alt="ahashmi5401" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahashmi5401&theme=tokyonight" height="180" />
+</p>
