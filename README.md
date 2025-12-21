@@ -41,6 +41,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahashmi5401&show_icons=true&locale=en" alt="ahashmi5401" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahashmi5401&theme=tokyonight" height="180" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahashmi5401&hide_total_contributions=true)](https://git.io/streak-stats)
