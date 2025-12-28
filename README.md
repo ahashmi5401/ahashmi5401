@@ -5,11 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=ahashmi5401&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahashmi5401" alt="GitHub Trophy" />
-  </a>
-</p>
+# My Resume
+
+📄 [View My Resume](https://github.com/ahashmi5401/my-resume/blob/main/ayan-resume-netlify-app-....pdf)
+
 
 - 🔭 I’m currently working on [Aykays Agency](https://aykays.com/)
 - 🌱 I’m currently learning **React & Data Science**
