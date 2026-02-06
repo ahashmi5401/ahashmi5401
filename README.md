@@ -75,6 +75,9 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
        alt="Power BI" width="40" height="40"/>
 </a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</a>
 
 ---
 
