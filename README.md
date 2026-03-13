@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on [Aykays Agency](https://aykays.com/)
-- 🌱 I’m currently learning **React & Data Science**
+- 🌱 I’m currently learning **React , C++ & Data Science**
 - 👯 I’m looking to collaborate on [Ecommerce Website](https://technocity-ayan.netlify.app)
 - 🤝 I’m looking for help with [Agency](https://systemengaging.netlify.app)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ayanhashmiportfolio.netlify.app)
