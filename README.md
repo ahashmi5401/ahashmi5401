@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ayan Hashmi</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ayan Hashmi.</h1>
 <h3 align="center">Front-End Developer (React) & Data Scientist | Building web apps & data solutions</h3>
 
 <p align="left">
