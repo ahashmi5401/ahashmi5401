@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ayanhashmiportfolio.netlify.app)
 - 💬 Ask me about **JavaScript, React, GSAP, Python**
 - 📫 How to reach me **ahashmi5401@gmail.com**
-- ⚡ Fun fact: **💻 “Hello, World!” is the first program every developer writes when learning a new language.**
+- ⚡ Fun fact: **I don't just write code; I architect digital experiences that solve real-world bottlenecks.**
 
 ---
 
