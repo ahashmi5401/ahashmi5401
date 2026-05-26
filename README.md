@@ -28,7 +28,7 @@
 | :--- | :--- | :--- |
 | 🔭 **Developing** | [Aykays Agency](https://aykays.com/) | `ACTIVE` |
 | 👯 **Collaboration** | [Ecommerce Engine](https://technocity-ayan.netlify.app) | `STABLE` |
-| 🌱 **Learning** | React 19 / Agenctic Ai / DS | `OPTIMIZING` |
+| 🌱 **Learning** | React 19 / Agentic Ai / DS | `OPTIMIZING` |
 
 ---
 
