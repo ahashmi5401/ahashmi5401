@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150"><b><a target="_blank" href="https://ayans.me/">PORTFOLIO</a></b></td>
-    <td align="center" width="150"><b><a href="https://github.com/ahashmi5401/my-resume/blob/main/ayan-resume-netlify-app-....pdf">RESUME</a></b></td>
+    <td align="center" width="150"><b><a href="https://github.com/ahashmi5401/my-resume/blob/main/Muhammad_Ayan_Hashmi_Resume%20(1).pdf">RESUME</a></b></td>
     <td align="center" width="150"><b><a href="mailto:ahashmi5401@gmail.com">CONTACT</a></b></td>
   </tr>
 </table>
