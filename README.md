@@ -47,7 +47,12 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
-#### ◈ State, Backend & Tooling
+#### ◈ Backend Engine & Databases (MERN)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
+
+#### ◈ State, Cloud & Developer Tooling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=redux,firebase,git,github,vscode,postman&theme=dark" />
 </p>
