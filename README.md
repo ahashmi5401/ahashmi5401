@@ -40,9 +40,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00f2ff" />
-  <img src="https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00f2ff" />
 </p>
 
 #### ◈ Core Frontend
