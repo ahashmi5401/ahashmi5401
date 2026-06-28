@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=MUHAMMAD_AYAN_HASHMI&fontSize=55&fontColor=00f2ff&animation=twinkling" width="100%" />
 
-### 🛰️ FRONT_END_ENGINEER · UI_SYSTEMS · DATA_LAYER
-**"Building fast, scalable storefronts and data-driven web experiences."**
+### 🛰️ FULLSTACK_ENGINEER · MERN_STACK · UI_SYSTEMS
+**"Building end-to-end web applications — from REST APIs to reactive UIs."**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahashmi5401&label=UPLINK_VIEWS&color=00f2ff&style=flat-square" alt="Profile views" />
@@ -30,10 +30,20 @@
 | 🔭 **Developing** | [Aykays Agency](https://aykays.com/) | `ACTIVE` |
 | 👯 **Collaboration** | [Ecommerce Engine](https://technocity-ayan.netlify.app) | `STABLE` |
 | 🌱 **Learning** | React 19 · Agentic AI · Data Structures | `OPTIMIZING` |
+| ⚙️ **Building** | REST APIs · JWT Auth · MongoDB Schemas | `IN_PROGRESS` |
 
 ---
 
 ### 🛠️ TECHNOLOGY_STACK
+
+#### ◈ Backend Engine & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00f2ff" />
+  <img src="https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00f2ff" />
+</p>
 
 #### ◈ Core Frontend
 <p align="center">
@@ -45,11 +55,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind,materialui&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-</p>
-
-#### ◈ Backend Engine & Databases (MERN)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
 #### ◈ State, Cloud & Developer Tooling
