@@ -38,7 +38,7 @@
 
 #### ◈ Backend Engine & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" />
   &nbsp;
 </p>
 
@@ -56,7 +56,7 @@
 
 #### ◈ State, Cloud & Developer Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,firebase,git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=redux,firebase,docker,git,github,vscode,postman&theme=dark" />
 </p>
 
 #### ◈ Data Engineering & Systems
@@ -70,7 +70,6 @@
   <img src="https://img.shields.io/badge/POWER_BI-00f2ff?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SEABORN-00f2ff?style=flat-square&logo=python&logoColor=black" />
 </p>
-
 ---
 
 ### 📊 TELEMETRY_DATA
